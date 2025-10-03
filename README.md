@@ -1,4 +1,4 @@
-# meditation
+# Meditation
 
 A new Flutter project.
 
